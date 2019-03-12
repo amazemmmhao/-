@@ -8,7 +8,6 @@
   
   java代码实现
   public class CountingSort {
-
     public static void main(String[] args) {
       int[] arrays = new int[] {9,8,7,6,5,4,3};
       System.out.println("待排序："+Arrays.toString(arrays));
@@ -42,4 +41,4 @@
       }
       return arrays;
     }	
-  }
+ }
